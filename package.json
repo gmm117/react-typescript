@@ -16,8 +16,13 @@
     "type": "git",
     "url": "git+https://github.com/gmm117/react-typescript.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "typescript",
+    "webpack",
+    "babel",
+    "react"
+  ],
+  "author": "gmm117",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/gmm117/react-typescript/issues"
